@@ -1,0 +1,40 @@
+body{
+    font-family:Arial, Helvetica, sans-serif;
+    max-width: 600px;
+    margin: auto;
+    color: #3a3a3a;
+    padding: 0.5rem;
+}
+
+
+h1,h2{
+    background-color: #ffa600;
+    padding: 10px;
+    color: #fff;
+}
+h1{
+    margin: 0px;
+}
+.centralizar{
+    text-align: center;
+}
+ol,ul{
+    line-height: 40px; /*Espaço entre itens da lista*/
+}
+.btn-youtube{
+    background-color: #ffa600;
+    color: #fff;
+    text-decoration: none;
+    padding: 15px 32px; /*Primeiro vaor cima e baixo, segundo valor laterais*/
+    display: inline-block;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 10px;
+}
+.btn-youtube:hover{
+    background-color: #ffa600a4;
+}
+footer{
+    margin-top: 30px;
+    text-align: center;
+}
